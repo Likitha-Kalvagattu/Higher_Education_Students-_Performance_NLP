@@ -1,4 +1,4 @@
-## Analysis Of Higher Education Students’ Performance Using Machine Learning Techniques
+# Analysis Of Higher Education Students’ Performance Using Machine Learning Techniques
 
 With the tremendous changes occurring world wide, the importance of education is witnessed and has been growing day by day.
 Analyzing the performance of students in higher education is a crucial aspect and one of the important areas of research, with manifold implications for educational institutions like schools, colleges, universities, public and private institutions, tuition centres and so on. In real-time, this research will have a significant impact on a number of aspects of the education system.
@@ -9,16 +9,20 @@ gender, and family background to lifestyle choices like extracurricular activiti
 The data was collected from the Faculty of Engineering and Faculty of Educational Sciences students in 2019. The purpose is to predict students’ end-of-term performances. The dataset contains 33 attributes of 145 students to analyze their performance.
 
 
-*Methodologies*
-Data Investigation/Inspection
-Exploratory Data Analysis(EDA)
-Feature Scaling
-Selection of Models
- --> Random Forest
- --> Logistic Regression
- --> Support Vector Machine
+## *Methodologies*
 
- *Conclusion*
+Data Investigation/Inspection
+
+Exploratory Data Analysis(EDA)
+
+Feature Scaling
+
+## *Selection of Models*<br />
+ --> Random Forest <br />
+ --> Logistic Regression <br />
+ --> Support Vector Machine <br />
+
+ ## *Conclusion*
 
 |Model|Accuracy|
 |-----|--------|
